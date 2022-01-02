@@ -1,0 +1,11 @@
+h1 {
+    color:rgb(71, 104, 109);
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+img {
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+}
